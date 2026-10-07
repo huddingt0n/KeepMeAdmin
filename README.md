@@ -1,6 +1,6 @@
 # KeepMeAdmin
 
-Automates the MakeMeAdmin configuration so your session is permanently elevated without needing to enter your domain password every time you run something as administrator.
+Automates the MakeMeAdmin configuration so your sessions are permanently elevated without needing to enter your domain password every time you run something as administrator.
 
 The script grabs your current user's SID, creates the `Automatic Add Allowed` registry entry under the MakeMeAdmin policy key, populates it with your SID, and sets `Remove Admin Rights On Logout` to disabled. The machine restarts to apply the changes.
 
