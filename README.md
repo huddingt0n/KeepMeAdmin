@@ -20,7 +20,7 @@ The script grabs your current user's SID, creates the `Automatic Add Allowed` re
    .\KeepMeAdmin.ps1
 ```
 
-![Description](images/image.png)
+![Description](images/image.jpg)
 
 The machine will restart automatically. After logging back in, your session will be permanently elevated. No password prompt required until the domain policy cycles.
 
