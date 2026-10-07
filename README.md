@@ -6,7 +6,7 @@ The script grabs your current user's SID, creates the `Automatic Add Allowed` re
 
 ## Steps
 
-1. Install and run the Make Me Admin program
+1. Run the Make Me Admin program and elevate to Administrator
 2. Open PowerShell as Administrator and complete the credential prompt once
 3. Set execution policy for the session:
 
